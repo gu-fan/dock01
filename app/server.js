@@ -17,3 +17,5 @@ const puppeteer = require('puppeteer');
 
 })();
 
+console.log("test")
+
